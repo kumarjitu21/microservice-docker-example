@@ -1,4 +1,4 @@
-# Sample SpringBoot Application which you can use to create docker image and deploy into Kubernetes Cluster
+# Sample SpringBoot Application
 
 
 ## To generate Kubernetes Deployment and Service Yaml
